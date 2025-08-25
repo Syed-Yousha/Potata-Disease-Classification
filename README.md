@@ -1,5 +1,9 @@
 🥔 Potato Leaf Disease Classification 🌱
 
+<img width="1272" height="627" alt="image" src="https://github.com/user-attachments/assets/29e37af4-32f6-466d-a446-4aa9313c8470" />
+
+
+
 This project is a Potato Leaf Disease Classification System that detects Early Blight and Late Blight from potato leaf images using Deep Learning.
 It features a FastAPI backend for model inference and a React (Material-UI) frontend for an interactive user experience.
 
