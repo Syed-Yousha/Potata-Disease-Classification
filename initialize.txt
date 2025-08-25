@@ -1,0 +1,10 @@
+1. open:
+     https://www.youtube.com/watch?v=bns5ELvbzVk&list=PLeo1K3hjS3utJFNGyBpIvjWgSDY0eOE8S&index=2
+
+2. in D:\ML\Potata-Disease-Classification run cmd and give command:
+   tfenv\Scripts\activate
+
+3. Run Cmd command:
+ 	jupyter notebook
+
+	
